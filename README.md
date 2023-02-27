@@ -1,4 +1,4 @@
-# redux-boilerplate
+# redux
 
 Simple React + Redux starter with the following config:
 
